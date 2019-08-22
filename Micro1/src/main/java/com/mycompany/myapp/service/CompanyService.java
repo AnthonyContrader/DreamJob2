@@ -36,7 +36,7 @@ public interface CompanyService {
      * @return the entity
      */
     Optional<CompanyDTO> findOne(Long id);
-    List<CompanyDTO> findById(Integer id);
+    //List<CompanyDTO> findById(Integer id);
    
 
     /**
