@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dreamjob2NET", "Dreamjob2NET\Dreamjob2NET.csproj", "{6C0DDF35-0B17-456A-874E-236ADCF72652}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C0DDF35-0B17-456A-874E-236ADCF72652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C0DDF35-0B17-456A-874E-236ADCF72652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C0DDF35-0B17-456A-874E-236ADCF72652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C0DDF35-0B17-456A-874E-236ADCF72652}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C28560B-9B8B-4C84-96E1-6440EDCDCE5E}
+	EndGlobalSection
+EndGlobal
