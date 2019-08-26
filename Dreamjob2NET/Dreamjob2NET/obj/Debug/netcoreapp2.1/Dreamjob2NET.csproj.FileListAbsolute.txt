@@ -1,3 +1,0 @@
-C:\Users\Andre_Mano\Desktop\Dreamjob2.2NET\DreamJob2\Dreamjob2NET\Dreamjob2NET\obj\Debug\netcoreapp2.1\Dreamjob2NET.csproj.CoreCompileInputs.cache
-C:\Users\Andre_Mano\Desktop\Dreamjob2.2NET\DreamJob2\Dreamjob2NET\Dreamjob2NET\obj\Debug\netcoreapp2.1\Dreamjob2NET.AssemblyInfoInputs.cache
-C:\Users\Andre_Mano\Desktop\Dreamjob2.2NET\DreamJob2\Dreamjob2NET\Dreamjob2NET\obj\Debug\netcoreapp2.1\Dreamjob2NET.AssemblyInfo.cs
