@@ -11805,11 +11805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Contrader_19_201\\Desktop\\DreamJob2\\DreamJob2\\DreamJob2\\DreamJob2\\DreamJob2.csproj",
+      "projectUniqueName": "C:\\Users\\Contrader_19_201\\Desktop\\DreamJob2\\DreamJob2\\DreamJob2\\DreamJob2.csproj",
       "projectName": "DreamJob2",
-      "projectPath": "C:\\Users\\Contrader_19_201\\Desktop\\DreamJob2\\DreamJob2\\DreamJob2\\DreamJob2\\DreamJob2.csproj",
+      "projectPath": "C:\\Users\\Contrader_19_201\\Desktop\\DreamJob2\\DreamJob2\\DreamJob2\\DreamJob2.csproj",
       "packagesPath": "C:\\Users\\Contrader_19_201\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Contrader_19_201\\Desktop\\DreamJob2\\DreamJob2\\DreamJob2\\DreamJob2\\obj\\",
+      "outputPath": "C:\\Users\\Contrader_19_201\\Desktop\\DreamJob2\\DreamJob2\\DreamJob2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
