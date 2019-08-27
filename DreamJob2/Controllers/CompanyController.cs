@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System.Transactions;
+using DreamJob2.Models;
 using DreamJob2.Repository;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -17,36 +19,54 @@ namespace DreamJob2.Controllers
         {
             _companyRepository = companyRepository;
         }
-        // GET: api/Company
-        [HttpGet]
-        public IEnumerable<string> Get()
+        public IActionResult Get()
         {
-            return new string[] { "value1", "value2" };
+            var companies = _companyRepository.GetCompanies();
+            return new OkObjectResult(companies);
         }
 
         // GET: api/Company/5
         [HttpGet("{id}", Name = "Get")]
-        public string Get(int id)
+        public IActionResult Get(int id)
         {
-            return "value";
+            var company = _companyRepository.GetCompanyById(id);
+            return new OkObjectResult(company);
         }
 
         // POST: api/Company
         [HttpPost]
-        public void Post([FromBody] string value)
+        public IActionResult Post([FromBody] Company company)
         {
+            using (var scope = new TransactionScope())
+            {
+                _companyRepository.InsertCompany(company);
+                scope.Complete();
+                return CreatedAtAction(nameof(Get), new { id = company.id }, company);
+            }
         }
 
         // PUT: api/Company/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        [HttpPut]
+        public IActionResult Put([FromBody] Company company)
         {
+            if (company != null)
+            {
+                using (var scope = new TransactionScope())
+                {
+                    _companyRepository.UpdateCompany(company);
+                    scope.Complete();
+                    return new OkResult();
+                }
+            }
+            return new NoContentResult();
         }
 
         // DELETE: api/ApiWithActions/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public IActionResult Delete(int id)
         {
+            _companyRepository.DeleteCompany(id);
+            return new OkResult();
         }
     }
 }
