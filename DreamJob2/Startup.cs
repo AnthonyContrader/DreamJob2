@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using DreamJob2.DBContexts;
+using DreamJob2.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -29,6 +30,9 @@ namespace DreamJob2
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddDbContext<DreamJobContext>(o => o.UseSqlServer(Configuration.GetConnectionString("DreamJobDB")));
+            services.AddTransient<IUserRepository, UserRepository>();
+            services.AddTransient<ICompanyRepository, CompanyRepository>();
+            services.AddTransient<ICandidatoRepository, CandidatoRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
