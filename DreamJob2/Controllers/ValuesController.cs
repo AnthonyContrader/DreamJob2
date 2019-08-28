@@ -7,7 +7,7 @@ using Consul;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json.Linq;
 
-namespace ConsulDemoApi.Controllers
+namespace DreamJob2.Controllers
 {
     [Produces("application/json")]
     [Route("api/[controller]")]

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 // CAMPI NECESSARI PER LA CONFIGURAZIONE DEL REGISTRO CONSUL
 
-namespace ConsulDemoApi.Config
+namespace DreamJobs2.Config
 {
     public class ConsulConfig
     {

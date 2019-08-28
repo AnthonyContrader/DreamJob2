@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Consul;
-using ConsulDemoApi.Config;
-using ConsulDemoApi.Services;
+using DreamJobs2.Config;
+using DreamJobs2.Services;
 using DreamJob2.DBContexts;
 
 using DreamJob2.Repository;

@@ -3,14 +3,14 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using Consul;
-using ConsulDemoApi.Config;
+using DreamJobs2.Config;
 using Microsoft.AspNetCore.Hosting.Server;
 using Microsoft.AspNetCore.Hosting.Server.Features;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace ConsulDemoApi.Services
+namespace DreamJobs2.Services
 {
     public class ConsulHostedService : IHostedService
     {
