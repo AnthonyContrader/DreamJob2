@@ -12685,23 +12685,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Contrader_19_201\\.nuget\\packages\\": {},
+    "C:\\Users\\devec\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Contrader_19_201\\Desktop\\DreamJob2\\DreamJob2\\DreamJob2\\DreamJob2.csproj",
+      "projectUniqueName": "C:\\Users\\devec\\Desktop\\DreamJob 2.0.1.3\\DreamJob2-NET\\DreamJob2\\DreamJob2\\DreamJob2.csproj",
       "projectName": "DreamJob2",
-      "projectPath": "C:\\Users\\Contrader_19_201\\Desktop\\DreamJob2\\DreamJob2\\DreamJob2\\DreamJob2.csproj",
-      "packagesPath": "C:\\Users\\Contrader_19_201\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Contrader_19_201\\Desktop\\DreamJob2\\DreamJob2\\DreamJob2\\obj\\",
+      "projectPath": "C:\\Users\\devec\\Desktop\\DreamJob 2.0.1.3\\DreamJob2-NET\\DreamJob2\\DreamJob2\\DreamJob2.csproj",
+      "packagesPath": "C:\\Users\\devec\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\devec\\Desktop\\DreamJob 2.0.1.3\\DreamJob2-NET\\DreamJob2\\DreamJob2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Contrader_19_201\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\devec\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

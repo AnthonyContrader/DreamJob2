@@ -29,8 +29,8 @@ namespace DreamJob2.Controllers
         }
 
         // GET: api/User/5
-        [HttpGet("{id}", Name = "Get")]
-        public IActionResult Get(int id)
+        [HttpGet("{id}", Name = "GetUser")]
+        public IActionResult GetUser(int id)
         {
             var user = _userRepository.GetUserById(id);
             return new OkObjectResult(user);

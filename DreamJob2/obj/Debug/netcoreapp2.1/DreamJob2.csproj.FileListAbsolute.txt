@@ -12,3 +12,17 @@ C:\Users\Contrader_19_201\Desktop\DreamJob2\DreamJob2\DreamJob2\obj\Debug\netcor
 C:\Users\Contrader_19_201\Desktop\DreamJob2\DreamJob2\DreamJob2\obj\Debug\netcoreapp2.1\DreamJob2.RazorTargetAssemblyInfo.cache
 C:\Users\Contrader_19_201\Desktop\DreamJob2\DreamJob2\DreamJob2\obj\Debug\netcoreapp2.1\DreamJob2.dll
 C:\Users\Contrader_19_201\Desktop\DreamJob2\DreamJob2\DreamJob2\obj\Debug\netcoreapp2.1\DreamJob2.pdb
+C:\Users\devec\Desktop\DreamJob 2.0.1.3\DreamJob2-NET\DreamJob2\DreamJob2\bin\Debug\netcoreapp2.1\DreamJob2.deps.json
+C:\Users\devec\Desktop\DreamJob 2.0.1.3\DreamJob2-NET\DreamJob2\DreamJob2\bin\Debug\netcoreapp2.1\DreamJob2.runtimeconfig.json
+C:\Users\devec\Desktop\DreamJob 2.0.1.3\DreamJob2-NET\DreamJob2\DreamJob2\bin\Debug\netcoreapp2.1\DreamJob2.runtimeconfig.dev.json
+C:\Users\devec\Desktop\DreamJob 2.0.1.3\DreamJob2-NET\DreamJob2\DreamJob2\bin\Debug\netcoreapp2.1\DreamJob2.dll
+C:\Users\devec\Desktop\DreamJob 2.0.1.3\DreamJob2-NET\DreamJob2\DreamJob2\bin\Debug\netcoreapp2.1\DreamJob2.pdb
+C:\Users\devec\Desktop\DreamJob 2.0.1.3\DreamJob2-NET\DreamJob2\DreamJob2\obj\Debug\netcoreapp2.1\DreamJob2.csprojAssemblyReference.cache
+C:\Users\devec\Desktop\DreamJob 2.0.1.3\DreamJob2-NET\DreamJob2\DreamJob2\obj\Debug\netcoreapp2.1\DreamJob2.csproj.CoreCompileInputs.cache
+C:\Users\devec\Desktop\DreamJob 2.0.1.3\DreamJob2-NET\DreamJob2\DreamJob2\obj\Debug\netcoreapp2.1\DreamJob2.RazorAssemblyInfo.cache
+C:\Users\devec\Desktop\DreamJob 2.0.1.3\DreamJob2-NET\DreamJob2\DreamJob2\obj\Debug\netcoreapp2.1\DreamJob2.RazorAssemblyInfo.cs
+C:\Users\devec\Desktop\DreamJob 2.0.1.3\DreamJob2-NET\DreamJob2\DreamJob2\obj\Debug\netcoreapp2.1\DreamJob2.AssemblyInfoInputs.cache
+C:\Users\devec\Desktop\DreamJob 2.0.1.3\DreamJob2-NET\DreamJob2\DreamJob2\obj\Debug\netcoreapp2.1\DreamJob2.AssemblyInfo.cs
+C:\Users\devec\Desktop\DreamJob 2.0.1.3\DreamJob2-NET\DreamJob2\DreamJob2\obj\Debug\netcoreapp2.1\DreamJob2.RazorTargetAssemblyInfo.cache
+C:\Users\devec\Desktop\DreamJob 2.0.1.3\DreamJob2-NET\DreamJob2\DreamJob2\obj\Debug\netcoreapp2.1\DreamJob2.dll
+C:\Users\devec\Desktop\DreamJob 2.0.1.3\DreamJob2-NET\DreamJob2\DreamJob2\obj\Debug\netcoreapp2.1\DreamJob2.pdb

@@ -58,6 +58,7 @@ namespace DreamJobs2.Services
                     HTTP = $"{uri.Scheme}://{uri.Host}:60008/api/health/status",
                     Timeout = TimeSpan.FromSeconds(3),
                     Interval = TimeSpan.FromSeconds(10)
+
                 }
             };
 
