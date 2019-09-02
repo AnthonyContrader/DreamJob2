@@ -40,7 +40,7 @@ export default class Menu extends Component {
             </span>
           </a>
           <ul className="treeview-menu">
-            <li><a href="index.html"><i className="fa fa-user" />Lista users</a></li>
+            <li><a href="userList.html"><i className="fa fa-user" />Lista users</a></li>
           </ul>
         </li>
         <li className="active treeview menu-open">
@@ -51,8 +51,8 @@ export default class Menu extends Component {
             </span>
           </a>
           <ul className="treeview-menu">
-            <li><a href="index.html"><i className="fa fa-user-circle" /> Lista candidati</a></li>
-            <li className="active"><a href="index2.html"><i className="fa fa-vcard-o" /> Lista Questionari</a></li>
+            <li><a href="candList.html"><i className="fa fa-user-circle" /> Lista candidati</a></li>
+            <li className="active"><a href="QuestList.html"><i className="fa fa-vcard-o" /> Lista Questionari</a></li>
           </ul>
         </li>
         <li className="active treeview menu-open">
@@ -63,8 +63,8 @@ export default class Menu extends Component {
             </span>
           </a>
           <ul className="treeview-menu">
-            <li><a href="index.html"><i className="fa fa-user-circle-o" /> Lista aziende</a></li>
-            <li className="active"><a href="index2.html"><i className="fa fa-handshake-o" /> Lista Open Jobs</a></li>
+            <li><a href="compList.html"><i className="fa fa-user-circle-o" /> Lista aziende</a></li>
+            <li className="active"><a href="jobList.html"><i className="fa fa-handshake-o" /> Lista Open Jobs</a></li>
           </ul>
         </li>
         <li className="header">LABELS</li>
